@@ -31,20 +31,18 @@ This repository presents selected academic research achievements completed durin
 ```
 .
 ├── Graduation_Project
-│   ├── Design_and_Implementation_of_a_Public_Opinion_Monitoring_System_for_Scenic_Areas_CN.pdf
-│   └── Design_and_Implementation_of_a_Public_Opinion_Monitoring_System_for_Scenic_Areas_EN.pdf
+│   └── Design_and_Implementation_of_a_Public_Opinion_Monitoring_System_for_Scenic_Areas.pdf
 │
 ├── EV_Carbon_Emission_Research
-│   ├── Carbon_Emission_Effects_of_EV_Charging_Behavior_CN.pdf
-│   ├── Carbon_Emission_Effects_of_EV_Charging_Behavior_EN.pdf
-│   ├── Award_Certificates_CN.pdf
-│   └── Award_Certificates_EN.pdf
+│   ├── 1. Research on Carbon Emission Effects of Electric Vehicle Users’ Charging Behaviors From the Perspective of Dynamic Carbon Emission Factors.pdf
+│   ├── 2. Software Copyright.pdf
+│   ├── 3. National_College_Student_Competition_on_Energy_Economics.pdf
+│   ├── 4. Award_Certificate_Fengru_Cup_2025.pdf
+│   └── 5. Completion_Certificate_of_National_Undergraduate_Innovation_Training_Program.pdf
 │
 ├── Community_Emergency_App
-│   ├── Community_Emergency_Mutual_Assistance_App_CN.pdf
-│   ├── Community_Emergency_Mutual_Assistance_App_EN.pdf
-│   ├── Award_Certificate_CN.pdf
-│   └── Award_Certificate_EN.pdf
+│   ├── 1. Concept of a Neighborhood Emergency Mutual-Aid App Based on Community Resident Data.pdf
+│   └── 2. Award_Certificate_Fengru_Cup_2023.pdf
 │
 └── README.md
 ```
@@ -69,11 +67,6 @@ The research introduces Situation Awareness Theory and integrates multiple artif
 - Decision support
 - Django-based information system implementation
 
-### Files
-
-- Original Chinese Thesis (PDF)
-- English Translation (PDF)
-
 ---
 
 ## 2. Research Paper
@@ -92,13 +85,6 @@ The study provides quantitative analysis for low-carbon transportation and susta
 - First Prize, 35th Feng Ru Cup Competition, Beihang University
 - Outstanding Completion Award, National Undergraduate Innovation and Entrepreneurship Training Program
 
-### Files
-
-- Original Chinese Paper (PDF)
-- English Translation (PDF)
-- Original Award Certificates
-- English Translation of Award Certificates
-
 ---
 
 ## 3. Undergraduate Research Project
@@ -110,21 +96,6 @@ This undergraduate research project proposes a community emergency mutual assist
 ### Award
 
 - Third Prize, 33rd Feng Ru Cup Competition (Innovation Track), Beihang University
-
-### Files
-
-- Original Chinese Paper (PDF)
-- English Translation (PDF)
-- Original Award Certificate
-- English Translation of Award Certificate
-
----
-
-# Notes
-
-All English translations included in this repository are provided solely to facilitate the review process for international academic evaluation.
-
-The original Chinese versions remain the official documents.
 
 ---
 
